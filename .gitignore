@@ -5,4 +5,5 @@
 *.o
 *.a
 
-aoc.code-workspace
+*.idea/
+*.code-workspace
